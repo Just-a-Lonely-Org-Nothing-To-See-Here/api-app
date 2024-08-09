@@ -1,2 +1,1 @@
-# api-app
-api-app
+Flask==2.0.1
